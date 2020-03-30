@@ -1,0 +1,16 @@
+:global {
+  @media only screen and (max-resolution: 199dpi){
+  .imgx2 {
+    display: none;
+  }
+}
+
+@media only screen and (min-resolution: 200dpi){
+  .imgx1 {
+    display: none;
+  }
+  .imgx2 {
+    display: block;
+  }
+}
+}

@@ -1,0 +1,17 @@
+{
+    "results": "Results",
+    "home": "Home",
+    "login": "Login",
+    "tableView": "Table View",
+    "entriesPerPage": "Entries per page",
+    "searchUser": "Search User",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "DOB": "DOB",
+    "email": "Email",
+    "industry": "Industry",
+    "experience": "Experience (yrs)",
+    "salary": "Salary (£)",
+    "chartView": "Chart View",
+    "typeOfChart": "Type of chart"
+}

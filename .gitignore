@@ -1,0 +1,14 @@
+#### Development Dependencies ####
+/coverage/
+/dist/
+node_modules/
+
+#### IDEs #####
+*.iml
+./.idea
+
+#### env ####
+.env
+
+#### error logs ####
+yarn-error.log

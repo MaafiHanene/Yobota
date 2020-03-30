@@ -1,0 +1,10 @@
+:root {
+  --font-family: 'Yobota';
+  --font-family-regular: 'Yobota';
+  --font-family-bold: 'Yobota Bold';
+  --font-family-headline: 'Yobota Heavy';
+  --font-size: 16px;
+  --font-bold: bold;
+  --font-regular: 400;
+  --font-light: 200;
+}

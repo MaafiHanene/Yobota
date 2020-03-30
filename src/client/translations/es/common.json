@@ -1,0 +1,17 @@
+{
+    "results": "Resultados",
+    "home": "A casita",
+    "login": "A dentro",
+    "tableView": "Vista de tabla",
+    "entriesPerPage": "Entradas por página",
+    "searchUser": "buscar usuario",
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "DOB": "Nacimiento",
+    "email": "Correo",
+    "industry": "Industria",
+    "experience": "Experiencia (años)",
+    "salary": "Salario (£)",
+    "chartView": "Vista de gráfico",
+    "typeOfChart": "Tipo de gráfico"
+}

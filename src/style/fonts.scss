@@ -1,0 +1,36 @@
+@charset "utf-8";
+
+@font-face {
+  font-family: "Yobota Headline";
+  src: url("fonts/YobotaHeadline.woff2") format("woff2"),
+    url("fonts/YobotaHeadline.woff") format("woff");
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Yobota Bold";
+  src: url("fonts/Yobota-Regular.woff2") format("woff2"),
+    url("fonts/Yobota-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Yobota";
+  src: url("fonts/Yobota-Bold.woff2") format("woff2"),
+    url("fonts/Yobota-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+}
+
+:root {
+  --font-family: 'Yobota';
+  --font-family-regular: 'Yobota';
+  --font-family-bold: 'Yobota Bold';
+  --font-family-headline: 'Yobota Headline';
+  --font-size: 16px;
+  --font-bold: bold;
+  --font-regular: 400;
+  --font-light: 200;
+}
